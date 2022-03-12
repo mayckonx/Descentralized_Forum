@@ -1,15 +1,12 @@
-# Basic Sample Hardhat Project
+This Dapp is basically a web forum where users can interact with each other through posts and threads.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Tech stack:
+- #Solidity for the Smart Contracts
+- #Hardhat for Developing and Testing
+- #NextJS & #React for the Frontend
 
-Try running some of the following tasks:
+- Contract Address:
+https://mumbai.polygonscan.com/address/0x1c9eE4Fe427a7554f1dc02D89ADd99F024834E63
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
+![webforum](https://user-images.githubusercontent.com/8951261/158023735-b4cbb66b-5b44-48e7-8e70-7a31bf8c0ed1.gif)
